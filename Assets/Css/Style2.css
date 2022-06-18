@@ -1,0 +1,62 @@
+.grid-container {
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    gap: 10%;
+    padding-left: 15%;
+    margin-top: 5%;
+}
+
+.btn { 
+    width: 15%;
+    margin-left: 41.5%;
+    
+}
+
+.grid-item {
+    padding-left: 13px;
+}
+
+.Batman { 
+    padding-left: 20%;
+    padding-top: 10%;
+    font-family: 'Acme';
+}
+
+.Adidas { 
+    padding-left: 20%;
+    padding-top: 5%;
+    font-family: 'Acme';
+}
+
+.Avengers { 
+    padding-left: 15%;
+    padding-top: 1%;
+    font-family: 'Acme';
+}
+
+p {
+    color: blue;
+    font-family: 'Acme';
+    padding-left: 30%;
+}
+
+
+.resultado {
+    padding-left: 27.5%;
+    padding-right: 30%;
+    
+    
+}
+
+.alert {
+    text-align: center;
+    font-size: large;
+    font-family: 'Acme';
+}

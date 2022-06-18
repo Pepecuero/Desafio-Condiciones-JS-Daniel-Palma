@@ -1,0 +1,17 @@
+.titulo {
+    text-align: center;
+}
+
+.password {
+    text-align: center;
+}
+
+.boton {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.resultado {
+    text-align: center;
+    font-size: large;
+}
